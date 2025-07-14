@@ -33,8 +33,8 @@ Below is the compatible `requirements.txt` content:
     numpy==2.0.2
     seaborn==0.13.2
     Pillow==11.2.1
-    torch==2.6.0+cu124
-    torchvision==0.21.0+cu124
+    torch==2.6.0
+    torchvision==0.21.0
     scikit-learn==1.6.1
     optuna==4.3.0
     joblib==1.4.2
