@@ -1,16 +1,16 @@
-# 🧠 Brain Tumor Classification using CNN
+# Brain Tumor Classification using CNN
 
 This project implements a Convolutional Neural Network (CNN)-based deep learning model for **brain tumor image classification**. The model architecture, training process, and hyperparameters are carefully designed to achieve high performance within constrained computational environments. For a detailed view of the model and training workflow, refer to the included Jupyter Notebook (`Brain_Tumor_CNN.ipynb`).
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
-### 🔧 Option 1: Google Colab (Recommended)
+### Option 1: Google Colab (Recommended)
 
 If you’re using **Google Colab**, simply upload and run the `.ipynb` file. All dependencies can be installed in Colab via standard commands.
 
-### 💻 Option 2: Local Environment (Anaconda (miniconda) / PyCharm / VSCode)
+### Option 2: Local Environment (Anaconda (miniconda) / PyCharm / VSCode)
 
 If running locally, it's recommended to use:
 
@@ -24,7 +24,7 @@ To set up the required environment, use the provided `requirements.txt` file, th
 pip install -r requirements.txt
 ```
 
-## 📦 Requirements (`requirements.txt`)
+## Requirements (`requirements.txt`)
 
 Below is the compatible `requirements.txt` content:
 
